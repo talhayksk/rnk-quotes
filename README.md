@@ -11,6 +11,10 @@ güncellemesi gerekmez.
 | `quotes.json` | Tüm kategoriler ve vecizeler |
 | `version.json` | Uygulamanın önce kontrol ettiği küçük sürüm dosyası |
 | `scripts/validate.mjs` | JSON doğrulama betiği |
+| `scripts/check-version-bump.mjs` | İçerik değiştiyse sürümün arttığını kontrol eder |
+
+GitHub Action her push'ta hem JSON'u doğrular hem de içerik değiştiği halde
+`version` artırılmadıysa push'u kırmızıya düşürür.
 
 ## Yeni vecize ekleme
 
