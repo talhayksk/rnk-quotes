@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T19:13:12.041Z",
+  "updatedAt": "2026-10-26T19:13:12.041Z",
   "categories": [
     {
       "id": "1",
@@ -8146,6 +8146,11 @@
           "id": "46-19",
           "text": "Risale-i Nur bu zamanın bir mürşididir",
           "source": "Kastamonu Lâhikası- 31"
+        },
+        {
+          "id": "46-20",
+          "text": "Risale-i Nur bu asırda, bu tarihte bir 'urvetü'l-vüska'dır. Yani çok muhkem, kopmaz bir zincir ve bir 'hablullah'tır. Ona elini atan yapışan necat bulur.",
+          "source": "On Birinci Şua, On Birinci Mesele, Hatime s.270"
         }
       ]
     },
