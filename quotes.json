@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "schemaVersion": 1,
   "updatedAt": "2026-10-28T19:13:12.041Z",
   "categories": [
@@ -687,11 +687,6 @@
           "id": "2-95",
           "text": "Ki, 'Üç günden fazla bir mü’min diğer bir mü’mine küsmemek' İslâmiyet emrediyor.",
           "source": "Sözler, On Üçüncü Söz, İkinci Makam"
-        },
-        {
-          "id": "2-96",
-          "text": "Dünyanın bin sene mes’udane hayatı, bir saat hayatına mukabil gelmeyen cennet hayatının ve o cennet hayatının dahi bin senesi, bir saat rü’yet-i cemaline mukabil gelmeyen bir Cemil-i Zülcelal’in daire-i rahmetine ve mertebe-i huzuruna gidiyorsun.",
-          "source": "Mektunat 21. Mektup"
         }
       ]
     },
@@ -1008,6 +1003,11 @@
           "id": "3-62",
           "text": "Nefy-i nefy isbattır. Yani yok, yok ise; o vardır. Yok, yok olsa var olur.",
           "source": "İman ve Küfür Muvazeneleri-84"
+        },
+        {
+          "id": "3-96",
+          "text": "Dünyanın bin sene mes’udane hayatı, bir saat hayatına mukabil gelmeyen cennet hayatının ve o cennet hayatının dahi bin senesi, bir saat rü’yet-i cemaline mukabil gelmeyen bir Cemil-i Zülcelal’in daire-i rahmetine ve mertebe-i huzuruna gidiyorsun.",
+          "source": "Mektunat 21. Mektup"
         }
       ]
     },
